@@ -65,3 +65,7 @@ htmlcov/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Project specific
+phase-1-upgraded.md
+phase-1-upgraded (1).md
